@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /proprietaire/
+Disallow: /demande-confirmee
+
+Sitemap: https://darandstay.com/sitemap.xml
